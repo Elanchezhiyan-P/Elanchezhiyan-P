@@ -16,6 +16,9 @@ I'm a web developer and windows desktop developer...
 
 ## Currently working on 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/elanchezhiyan-p/GenericRepositoryPattern/main)
+![GitHub contributors](https://img.shields.io/github/contributors/elanchezhiyan-p/GenericRepositoryPattern)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/elanchezhiyan-p/GenericRepositoryPattern)
+![GitHub top language](https://img.shields.io/github/languages/top/elanchezhiyan-p/GenericRepositoryPattern)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Windows desktop development
