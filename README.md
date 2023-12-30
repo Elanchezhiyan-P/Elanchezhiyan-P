@@ -6,7 +6,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elanchezhiyan-p&langs_count=8&layout=compact)](https://github.com/elanchezhiyan-p/github-readme-stats)
 
 ## 🚀 About Me
-I'm a web developer and windows desktop developer...
+I am a skilled .NET developer with 4 years of experience, specializing in building dynamic and high-performance software applications. My passion for coding and problem-solving drives me to create elegant solutions that exceed client expectations.
+
+Throughout my career, I have been involved in a diverse range of projects, including developing enterprise-level web applications, implementing scalable APIs, and optimizing database performance. My expertise lies in leveraging the power of the .NET framework, C#, and associated technologies to deliver robust and user-friendly solutions.
+
+With a strong foundation in software development principles, I consistently strive for clean, maintainable, and efficient code. I am well-versed in agile methodologies and have a proven track record of collaborating effectively with cross-functional teams to deliver projects on time and within budget.
+
+In addition to my technical skills, I possess excellent problem-solving abilities and a keen eye for detail. I enjoy exploring new technologies and staying up-to-date with industry trends to ensure that I am at the forefront of innovation.
+
+What sets me apart is my commitment to continuous learning and personal growth. I actively engage in professional development opportunities, attend tech conferences, and participate in coding challenges to sharpen my skills and expand my knowledge.
 
 
 ## 🔗 Links
