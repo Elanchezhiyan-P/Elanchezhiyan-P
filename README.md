@@ -26,9 +26,9 @@ What sets me apart is my commitment to continuous learning and personal growth. 
   Active contributor at [@Netimobiledevice](https://github.com/artehe/Netimobiledevice)
 
 ## Profile Visits
-![](https://komarev.com/ghpvc/?username=Elanchezhiyan-P&base=1000)
+![](https://komarev.com/ghpvc/?username=Elanchezhiyan-P&base=5000)
 
-## Other Common Github Profile Sections
+## Other Common GitHub Profile Sections
 👩‍💻 I'm currently working on Windows desktop development
 
 🧠 I'm currently learning DotNet 7
