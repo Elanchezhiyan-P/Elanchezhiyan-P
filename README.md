@@ -5,13 +5,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elanchezhiyan-p&langs_count=8&layout=compact)](https://github.com/elanchezhiyan-p/github-readme-stats)
 
 ## 🚀 About Me
-I am a skilled .NET developer with 4.5 years of experience, specializing in building dynamic and high-performance software applications. My passion for coding and problem-solving drives me to create elegant solutions that exceed client expectations.
+I am a skilled .NET developer with 5 years of experience, specializing in building dynamic and high-performance software applications. My passion for coding and problem-solving drives me to create elegant solutions that exceed client expectations.
 
-Throughout my career, I have been involved in a diverse range of projects, including developing enterprise-level web applications, implementing scalable APIs, and optimizing database performance. My expertise lies in leveraging the power of the .NET framework, C#, and associated technologies to deliver robust and user-friendly solutions.
+I have been involved in various projects throughout my career, including developing enterprise-level web applications, implementing scalable APIs, and optimizing database performance. My expertise lies in leveraging the power of the .NET framework, C#, and associated technologies to deliver robust and user-friendly solutions.
 
 With a strong foundation in software development principles, I consistently strive for clean, maintainable, and efficient code. I am well-versed in agile methodologies and have a proven track record of collaborating effectively with cross-functional teams to deliver projects on time and within budget.
 
-In addition to my technical skills, I possess excellent problem-solving abilities and a keen eye for detail. I enjoy exploring new technologies and staying up-to-date with industry trends to ensure that I am at the forefront of innovation.
+In addition to my technical skills, I possess excellent problem-solving abilities and a keen eye for detail. I enjoy exploring new technologies and staying up-to-date with industry trends to ensure I am at the forefront of innovation.
 
 What sets me apart is my commitment to continuous learning and personal growth. I actively engage in professional development opportunities, attend tech conferences, and participate in coding challenges to sharpen my skills and expand my knowledge.
 
@@ -28,15 +28,15 @@ What sets me apart is my commitment to continuous learning and personal growth. 
 ![](https://komarev.com/ghpvc/?username=Elanchezhiyan-P&base=5000)
 
 ## Other Common GitHub Profile Sections
-👩‍💻 I'm currently working on Windows desktop development
+👩‍💻 Currently, I'm working on Windows desktop development and Web API part integrating with NetSuite and ServiceNow.
 
-🧠 I'm currently learning DotNet 7
+🧠 Simultaneously, I'm learning DotNet 9
 
 👯‍♀️ I'm looking to collaborate on DotNet projects
 
 💬 Ask me about...
 
-📫 How to reach me... @elanche97@hotmail.com or @elanche97@gmail.com
+📫 How to reach me... @elanche97@gmail.com or @elanche97@hotmail.com
 
 ## 🛠 Skills
 C#, HTML, CSS, Javascript, Jquery, Adobe Coldfusion, Nhibernate, ReactJs(basics)
