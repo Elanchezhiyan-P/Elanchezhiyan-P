@@ -5,7 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elanchezhiyan-p&langs_count=8&layout=compact)](https://github.com/elanchezhiyan-p/github-readme-stats)
 
 ## 🚀 About Me
-I am a skilled .NET developer with <!-- years_of_experience_placeholder --> years of experience, specializing in building dynamic and high-performance software applications. My passion for coding and problem-solving drives me to create elegant solutions that exceed client expectations.
+## Experience
+
+5.2 years of experience
+
 
 I have been involved in various projects throughout my career, including developing enterprise-level web applications, implementing scalable APIs, and optimizing database performance. My expertise lies in leveraging the power of the .NET framework, C#, and associated technologies to deliver robust and user-friendly solutions.
 
