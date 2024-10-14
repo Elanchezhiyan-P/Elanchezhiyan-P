@@ -1,7 +1,7 @@
 import datetime
 
 # Set your starting year of experience
-start_date = datetime.datetime(2019, 8, 1)  # Change to your actual start date
+start_date = datetime.datetime(2015, 1, 1)  # Change to your actual start date
 current_date = datetime.datetime.now()
 
 # Calculate total months of experience
@@ -22,6 +22,10 @@ with open(readme_path, 'r') as f:
 for i, line in enumerate(readme_content):
     if '<!-- years_of_experience_placeholder -->' in line:
         readme_content[i] = line.replace('<!-- years_of_experience_placeholder -->', formatted_experience)
+    else:
+        # If it's not the line with the placeholder, ensure we keep the placeholder for next time
+        if formatted_experience not in line:
+            readme_content[i] = line.replace(formatted_experience, '<!-- years_of_experience_placeholder -->')
 
 # Write the updated content back to README.md
 with open(readme_path, 'w') as f:
