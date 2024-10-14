@@ -1,7 +1,7 @@
 import datetime
 
 # Set your starting year of experience
-start_date = datetime.datetime(2015, 1, 1)  # Change to your actual start date
+start_date = datetime.datetime(2019, 8, 1)  # Change to your actual start date
 current_date = datetime.datetime.now()
 
 # Calculate total months of experience
