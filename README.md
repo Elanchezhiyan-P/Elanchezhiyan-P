@@ -42,11 +42,3 @@ What sets me apart is my commitment to continuous learning and personal growth. 
 
 ## 🛠 Skills
 C#, HTML, CSS, Javascript, Jquery, Adobe Coldfusion, Nhibernate, ReactJs(basics)
-
-
-<!---
-Elanchezhiyan-P/Elanchezhiyan-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Experience
-9 years of experience
