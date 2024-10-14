@@ -1,9 +1,29 @@
 name: Update README
 
 on:
-  push:
-    branches:
-      - main  # Change if your main branch is named differently
+  schedule:
+    - cron: '0 0 1 * *'  # Runs at midnight on the 1st of every month
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Use the latest version
+
+      - name: Run script to update experience
+        run: |
+          python name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs at midnight on the 1st of every month
 
 jobs:
   update-readme:
@@ -22,10 +42,17 @@ jobs:
         run: |
           python YOECalculator.py  # Replace with your script name
 
-      - name: Update README
+      - name: Commit changes
         run: |
-          echo "## Experience" >> README.md
-          cat years_of_experience.txt >> README.md
+          git config --local user.name "github-actions"
+          git config --local user.email "action@github.com"
+          git add README.md
+          git commit -m "Update years of experience"
+          git push
+  # Replace with your script name
+
+      - name: Commit changes
+        run: |
           git config --local user.name "github-actions"
           git config --local user.email "action@github.com"
           git add README.md
