@@ -20,7 +20,7 @@ jobs:
 
       - name: Run script to update experience
         run: |
-          python your_script.py  # Replace with your script name
+          python YOECalculator.py  # Replace with your script name
 
       - name: Update README
         run: |
