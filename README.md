@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a seasoned .NET developer with over 5.5 years of hands-on experience, specializing in full-stack development across the .NET ecosystem, including .NET Framework, .NET Core, MAUI, and Web API. My passion for coding and problem-solving drives me to create high-performance software solutions that exceed client expectations.
+I am a seasoned .NET developer with over 5.4 years of hands-on experience, specializing in full-stack development across the .NET ecosystem, including .NET Framework, .NET Core, MAUI, and Web API. My passion for coding and problem-solving drives me to create high-performance software solutions that exceed client expectations.
 
 Throughout my career, I have worked on various dynamic projects, including building social media platforms, implementing scalable APIs, and integrating complex systems. I leverage the power of the .NET framework, C#, and other technologies to deliver robust and user-friendly solutions, while also ensuring optimized database performance.
 
