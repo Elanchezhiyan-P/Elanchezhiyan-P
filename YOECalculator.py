@@ -1,32 +1,26 @@
 import datetime
+import re
 
-# Set your starting year of experience
-start_date = datetime.datetime(2019, 8, 1)  # Change to your actual start date
-current_date = datetime.datetime.now()
+# Define your start date (e.g., 2019-01-01)
+start_date = datetime.date(2019, 8, 1)
 
-# Calculate total months of experience
-total_months = (current_date.year - start_date.year) * 12 + (current_date.month - start_date.month)
+# Calculate the difference between today and the start date
+today = datetime.date.today()
+experience_years = today.year - start_date.year + (today.month - start_date.month) / 12
 
-# Calculate years in decimal format
-years_of_experience = total_months / 12
-formatted_experience = f"{years_of_experience:.1f}"
+# Round the experience to 1 decimal place
+experience_years = round(experience_years, 1)
 
-# Update the README.md directly
-readme_path = 'README.md'
+# Read the existing README.md file with utf-8 encoding
+with open("README.md", "r", encoding="utf-8") as file:
+    readme_content = file.read()
 
-# Read the current README
-with open(readme_path, 'r') as f:
-    readme_content = f.readlines()
+# Use regex to find and update the experience value dynamically
+pattern = r"(\d+\.\d+) years of hands-on experience"
+updated_readme_content = re.sub(pattern, f"{experience_years} years of hands-on experience", readme_content)
 
-# Update the line with the placeholder
-for i, line in enumerate(readme_content):
-    if '<!-- years_of_experience_placeholder -->' in line:
-        readme_content[i] = line.replace('<!-- years_of_experience_placeholder -->', formatted_experience)
-    else:
-        # If it's not the line with the placeholder, ensure we keep the placeholder for next time
-        if formatted_experience not in line:
-            readme_content[i] = line.replace(formatted_experience, '<!-- years_of_experience_placeholder -->')
+# Write the updated content back to the README.md file with utf-8 encoding
+with open("README.md", "w", encoding="utf-8") as file:
+    file.write(updated_readme_content)
 
-# Write the updated content back to README.md
-with open(readme_path, 'w') as f:
-    f.writelines(readme_content)
+print(f"Experience updated to {experience_years} years.")
