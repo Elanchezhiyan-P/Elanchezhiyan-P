@@ -6,28 +6,39 @@
 
 ## 🚀 About Me
 
-I am a seasoned .NET developer with over 5.5 years of hands-on experience, specializing in full-stack development across the .NET ecosystem, including .NET Framework, .NET Core, MAUI, and Web API. My passion for coding and problem-solving drives me to create high-performance software solutions that exceed client expectations.
+I am a seasoned full-stack developer with over 5.5 years of hands-on experience, specializing in technologies such as the .NET ecosystem (including .NET Framework, .NET Core, MAUI), ReactJS, Node.js, Web API, and Python. My passion for coding and problem-solving fuels my ability to deliver high-performance software solutions that exceed client expectations and drive innovation.
 
-Throughout my career, I have worked on various dynamic projects, including building social media platforms, implementing scalable APIs, and integrating complex systems. I leverage the power of the .NET framework, C#, and other technologies to deliver robust and user-friendly solutions, while also ensuring optimized database performance.
+Throughout my career, I have contributed to various dynamic projects, from building social media platforms and scalable APIs to integrating complex third-party systems. I leverage the power of C#, ReactJS, NodeJS, and other technologies to craft robust and user-friendly solutions while ensuring optimal database performance and system scalability.
 
-With a solid foundation in software development principles, I consistently strive to write clean, maintainable, and efficient code. I am well-versed in agile methodologies and have a proven track record of collaborating effectively with cross-functional teams to deliver projects on time and within budget.
+With a solid foundation in software development principles, I prioritize writing clean, maintainable, and efficient code. I am well-versed in agile methodologies and have a proven track record of collaborating effectively with cross-functional teams to deliver projects on time and within budget.
 
-I am constantly exploring new technologies and staying up-to-date with industry trends to remain at the forefront of innovation. My keen problem-solving abilities, attention to detail, and commitment to continuous learning set me apart. I actively engage in professional development opportunities, attend tech conferences, and participate in coding challenges to continuously improve my skills and knowledge.
+I am always exploring new technologies and staying up-to-date with industry trends to ensure my skills remain at the cutting edge. My strong problem-solving abilities, attention to detail, and commitment to continuous learning set me apart. I actively engage in professional development opportunities, attend tech conferences, and participate in coding challenges to continually enhance my skills and knowledge.
+
+### What I’m Passionate About:
+
+- **Building scalable applications:** I love taking on performance challenges and ensuring that the systems I build can grow and scale effectively.
+- **Collaborating with others:** Whether working with a team or contributing to open-source projects, I enjoy being part of a community where we can learn and grow together.
+- **Clean, readable code:** Code is not just about functionality; it's about maintainability. I write code as if the next person to read it is me.
+- **Problem-solving:** Every project presents unique challenges, and I thrive on finding creative solutions that optimize both performance and user experience.
 
 ### Key Achievements:
-- **Led** the development of a social media platform
-- **Integrated** QuickBooks on Android and Windows
-- **Developed** a hospital inventory management system
-- **Integrated** systems and services like Netsuite, ServiceNow, HubSpot, PowerBI, and EverFi
+- **Led** the development of a social media platform and hospital inventory management system projects.
+- Managed *5 teams with 25+ members*, driving cross-functional collaboration on large-scale projects
+- Developed and integrated systems such as **QuickBooks, Netsuite, HubSpot, and ServiceNow**.
+- Spearheaded projects like **inventory management with PLC integration** and an **expert connection platform** for legal case management.
+- **Automated multiple projects** through:
+   -  *Auto deployment pipelines* for streamlined releases.
+   - *Automation testing* using Selenium to improve software quality.
+   - *Automated reports and data pull with Power Automate* to optimize workflows and data management.
 
 ---
 
 ## 🔧 Skills & Core Competencies
 
 ### **Languages & Frameworks**:
-- .NET Framework, .NET Core / .NET 5+, Entity Framework Core, MAUI, Blazor, Web API, SignalR, ASP.NET MVC, Web Services (SOAP, REST), Angular 13, Adobe ColdFusion, 
-- C#, HTML, CSS, JavaScript, jQuery, NHibernate, Blazor Development
-- Java, Python (basics), ReactJS (basics), PHP (basics),
+- .NET Framework, .NET Core / .NET 5+, Entity Framework Core, MAUI, Blazor, Web API, SignalR, ASP.NET MVC, Web Services (SOAP, REST), Electron.Net, NHibernate
+- C#, HTML, CSS, JavaScript, jQuery, TypeScript
+- Adobe ColdFusion, Java, ReactJS, NodeJS, Python (basics), PHP (basics)
 
 ### **Cloud Hosting & Services**:
 - **Azure**: Azure App Services (best practices), Key Vault, WebJobs, Storage Accounts, Azure Tables, Blob Storage
@@ -37,17 +48,19 @@ I am constantly exploring new technologies and staying up-to-date with industry 
 - **Integrations**: ProcessMaker, PowerAutomate, PowerBI, Netsuite, ServiceNow, HubSpot, EverFi
 
 ### **Databases**:
-- MySQL, MSSQL, PostgreSQL, SQLite, CosmosDB, Oracle, AzureDB, Firebird, MongoDB, AS400
+- MSSQL Server, MySQL, PostgreSQL, SQLite, CosmosDB, Oracle, AzureDB, Firebird, MongoDB, AS400
 
 ### **IoT & Real-Time Communication**:
 - **IoT**: Integrating .NET with PLC devices
 - **Real-Time**: Enabling audio and video calls via Zego Cloud
 
 ### **Automation & Scraping**:
-- Web scraping, cron jobs, Android push notifications, and more.
+- Web scraping for quotations, cron jobs, Android push notifications, and more.
+- Automated testing using selenium for daily basis report.
 
 ### **Background Processing**:
 - **Hangfire**: Implementing background jobs for task scheduling and long-running processes.
+- **WebJobs**: Implemented webjobs for scrapping the images from blob storage to update it in sites.
 
 ### **CI/CD & DevOps**:
 - **Azure DevOps**: Setting up CI/CD pipelines
@@ -68,7 +81,7 @@ I am constantly exploring new technologies and staying up-to-date with industry 
 - **Monitoring**: Application Insights
 
 ### **Unit Testing & Test-Driven Development (TDD)**:
-- NUnit / MSTest, Moq / NSubstitute for mocking, Integration Testing
+- NUnit, Moq for mocking, Integration Testing
 
 ### **Agile Methodologies**:
 - **Scrum / Kanban**: Familiar with Agile methodologies
@@ -80,14 +93,14 @@ I am constantly exploring new technologies and staying up-to-date with industry 
 
 ### **Architecture Diagrams & Mockups**:
 - **Tools**: Visio, draw.io, Figma, Visily
-- **Experience**: Proficient in creating clear and effective architecture diagrams and wireframes/mockups using tools like Visio, draw.io for system design and Figma, Visily for UI/UX design. I am experienced in visually representing complex systems to facilitate better understanding and communication within teams.
+- **Experience**: Proficient in creating clear and effective architecture diagrams and wireframes/mockups using tools like Visio, draw.io for system design, and Figma, Visily for UI/UX design. I am experienced in visually representing complex systems to facilitate better understanding and communication within teams.
 
 ---
 
 ## Currently Working On
 - **Active Contributor** at [@Netimobiledevice](https://github.com/Netimobiledevice)
-- **Current Projects**: Working on Windows desktop development and Web API integration with NetSuite and ServiceNow
-- **Learning**: Exploring .NET 9 to stay ahead of the latest advancements
+- **Current Projects**: Working on integrating the old Windows application (c++) with new web API (dotnet core) for the activation process and other data collection processes.
+- **Learning**: Exploring .NET 9 with ReactJS and NodeJS to stay ahead of the latest advancements
 
 ## 💬 Testimonials
 
@@ -108,7 +121,6 @@ I am constantly exploring new technologies and staying up-to-date with industry 
 
 ## 🎯 Current Learning Path
 
-- Exploring **.NET 9** and its new features.
 - Learning more about **Cloud Architecture** (Azure, AWS).
 - Diving into **Machine Learning** basics with C# and Python.
 
@@ -128,7 +140,7 @@ I am constantly exploring new technologies and staying up-to-date with industry 
 
 - 📧 **Email**: [elanche97@gmail.com](mailto:elanche97@gmail.com) or [elanche97@hotmail.com](mailto:elanche97@hotmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/elanche97](https://www.linkedin.com/in/elanche97)
-- 📖 **Portfolio**: [portfolio.com](https://portfolio.com)
+- 📖 **Portfolio**: [portfolio.com](https://elanchezhiyan-p.is-a.dev)
 
 ---
 
