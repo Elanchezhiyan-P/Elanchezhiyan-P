@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a seasoned full-stack developer with over 5.8 years of hands-on experience, specializing in technologies such as the .NET ecosystem (including .NET Framework, .NET Core, MAUI), ReactJS, Node.js, Web API, and Python. My passion for coding and problem-solving fuels my ability to deliver high-performance software solutions that exceed client expectations and drive innovation.
+I am a seasoned full-stack developer with over 5.9 years of hands-on experience, specializing in technologies such as the .NET ecosystem (including .NET Framework, .NET Core, MAUI), ReactJS, Node.js, Web API, and Python. My passion for coding and problem-solving fuels my ability to deliver high-performance software solutions that exceed client expectations and drive innovation.
 
 Throughout my career, I have contributed to various dynamic projects, from building social media platforms and scalable APIs to integrating complex third-party systems. I leverage the power of C#, ReactJS, NodeJS, and other technologies to craft robust and user-friendly solutions while ensuring optimal database performance and system scalability.
 
