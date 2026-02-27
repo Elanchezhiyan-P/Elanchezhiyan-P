@@ -1,6 +1,6 @@
 # Hi, I'm Elanchezhiyan P! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elanchezhiyan-p&layout=compact&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com?user=elanchezhiyan-p&theme=github-dark)
 
 ## 🚀 About Me
 
